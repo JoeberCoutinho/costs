@@ -6,7 +6,7 @@ import styles from './NewProject.module.css'
 
 function NewProject() {
   const navigate = useNavigate()
-  
+
   function createPost(project) {
     // initialize cost and services
     project.cost = 0
@@ -21,10 +21,7 @@ function NewProject() {
     })
       .then((resp) => resp.json())
       .then((data) => {
-        
-        navigate('/projects',{state: {message: "Projeto criado com sucesso pelo pai"}})
-        
-     
+        navigate('/projects', { state: { message: "Projeto criado com sucesso pelo pai" } })
       })
   }
 
