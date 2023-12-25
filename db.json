@@ -1,50 +1,37 @@
 {
   "projects": [
     {
-      "name": "Joeber André Coutinho",
-      "budget": "23322",
+      "name": "aba",
+      "budget": "333",
       "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "negao",
-      "budget": "250",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 150,
-      "services": [
-        {
-          "cost": "100",
-          "name": "aumentar o projeto",
-          "description": "vamos aumentar e vai ficar tinino",
-          "id": "2452afb2-e5ef-4a73-a1fe-8b711d0eb5bd"
-        },
-        {
-          "name": "amentar mais",
-          "cost": "50",
-          "description": "sempre",
-          "id": "eb713eef-024a-4446-914a-36f1f9fb4688"
-        }
-      ],
-      "id": 2
-    },
-    {
-      "name": "tiao",
-      "budget": "0.5",
-      "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "www",
+      "budget": "222",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "Joeber André Coutinho",
+      "budget": "33355",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [

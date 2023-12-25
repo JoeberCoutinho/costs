@@ -1,6 +1,6 @@
 .message {
-  width: 100%;
-  padding: 1em;
+  width: 100%; /* digo que tem 100% da largura */
+  padding: 1em; /* espacamento em volta interno*/
   border: 1px solid #000;
   margin: 0 auto;
   text-align: center;
